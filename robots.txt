@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kr-incheon-yeongjong.github.io/sitemap.xml
